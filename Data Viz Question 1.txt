@@ -1,0 +1,24 @@
+create table cdac_power_bi(
+name varchar(25),
+id INT,
+age INT,
+date_of_birth DATE
+);
+
+create table cdac_power_bi(
+name varchar(25),
+id INT,
+age INT,
+date_of_birth DATE);
+
+
+INSERT INTO cdac_power_bi(name,id,age,date_of_birth)
+VALUES
+ ('Navnath',1,24,'18/12/1998');
+('Gorakh',2,19,'05/04/2003'),
+('Kavita',3,17,'07/09/2005'),
+('Nagorao',4,46,'05/03/1976'),
+('Sarswati',5,42,'01/01/1980');
+
+
+total_sales = [Quantity]*[Price]
